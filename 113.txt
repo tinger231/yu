@@ -1,48 +1,25 @@
-TVBS£¬http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-
-TVBS£¬http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
-
-ÈıÁ¢£¬http://seb.sason.top/sc/sllive_fhd.m3u8
-
-ÖĞÌì£¬http://seb.sason.top/sc/ztxw_fhd.m3u8
-
-ÖĞÊÓ£¬http://seb.sason.top/sc/zsxw_fhd.m3u8
-
-Ì¨ÊÓ£¬http://seb.sason.top/sc/tsxw_fhd.m3u8
-
-1µçÊÓ£¬http://stream.nexttv.com.tw/n001/hd/live.m3u8
-
-¶«É­£¬http://seb.sason.top/sc/dsxw_fhd.m3u8
-
-¶«É­²Æ¾­£¬http://seb.sason.top/sc/dscjxw_fhd.m3u8
-
-ÃñÊÓ£¬http://seb.sason.top/ptv/ftv.php?id=ms
-
-Î³À´µçÓ°Ì¨£¬http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
-
-°®¶û´ïÌåÓı2Ì¨£¬http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-
-°®¶û´ïÌåÓı3Ì¨£¬http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-
-FOXSports£¬http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-
-FOXSports2£¬http://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
-
-FOXSports3£¬http://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
-
-ASTRO SPORT 2£¬http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
-
-ASTRO SPORT 2£¬http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-
-ASTRO SPORT 4£¬http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-
-NBA HD£¬https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-
-Star Sports£¬rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-
-ĞÂÊÓ¾õ£¬http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-
-³¬¼¶ÌåÓı??£¬http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
-TVBôä´ä£¬https://cdn.hkdtmb.com/hls/81/index.m3u8
-
-ViuTV£¬https://cdn.hkdtmb.com/hls/99/index.m3u8
+TVBSæ–°é—»ï¼Œhttp://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBSï¼Œhttp://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+ä¸‰ç«‹æ–°é—»ï¼Œhttp://seb.sason.top/sc/sllive_fhd.m3u8
+ä¸­å¤©æ–°é—»ï¼Œhttp://seb.sason.top/sc/ztxw_fhd.m3u8
+ä¸­è§†æ–°é—»ï¼Œhttp://seb.sason.top/sc/zsxw_fhd.m3u8
+å°è§†æ–°é—»ï¼Œhttp://seb.sason.top/sc/tsxw_fhd.m3u8
+å£¹ç”µè§†æ–°é—»ï¼Œhttp://stream.nexttv.com.tw/n001/hd/live.m3u8
+ä¸œæ£®æ–°é—»ï¼Œhttp://seb.sason.top/sc/dsxw_fhd.m3u8
+ä¸œæ£®è´¢ç»æ–°é—»ï¼Œhttp://seb.sason.top/sc/dscjxw_fhd.m3u8
+æ°‘è§†ï¼Œhttp://seb.sason.top/ptv/ftv.php?id=ms
+çº¬æ¥ç”µå½±å°ï¼Œhttp://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+çˆ±å°”è¾¾ä½“è‚²2å°ï¼Œhttp://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+çˆ±å°”è¾¾ä½“è‚²3å°ï¼Œhttp://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+FOXSportsï¼Œhttp://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
+FOXSports2ï¼Œhttp://185.180.221.194:8278/streams/d/Foxsports2/playlist.m3u8
+FOXSports3ï¼Œhttp://185.180.221.194:8278/streams/d/Foxsports3/playlist.m3u8
+ASTRO SPORT 2ï¼Œhttp://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+ASTRO SPORT 2ï¼Œhttp://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+ASTRO SPORT 4ï¼Œhttp://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+NBA HDï¼Œhttps://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+Star Sportsï¼Œrtmp://ivi.bupt.edu.cn:1935/livetv/starsports
+æ–°è§†è§‰ï¼Œhttp://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+è¶…çº§ä½“è‚²á´´á´°ï¼Œhttp://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225925/index.m3u8
+TVBç¿¡ç¿ å°ï¼Œhttps://cdn.hkdtmb.com/hls/81/index.m3u8
+ViuTVï¼Œhttps://cdn.hkdtmb.com/hls/99/index.m3u8
