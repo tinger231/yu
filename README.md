@@ -1,6 +1,6 @@
 日本旅游选购产品排行榜
 
-1：<a href="https://www.jpchu.com/product/xyzal/" target="_blank">日本小紫盒Q10</a>
+1：<a rel="noopener" href="https://www.jpchu.com/product/xyzal/" target="_blank">日本小紫盒Q10</a>
 
 不老神药！ 日本医师推荐！辅酶Q10，获得诺贝尔奖🏆 抗衰老，抗疲劳，使你重走青春，秒杀任何保健品。🍃功能主治：心肌缺血，胆固醇高，
 身体代谢血液循环较慢，预防脑血酸，脑梗塞，油腻食物引起的血液粘稠，循环较慢调节血液通畅。
